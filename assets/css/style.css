@@ -1,0 +1,43 @@
+body {
+	width: 100%;
+	background-image: url();
+	background-color: blue;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 100%;
+
+}
+
+header {
+	font-size: 2.5em;
+	font-weight: bold;
+	font-color: black;
+	text-align: center;
+	background-color: red;
+	max-width: 1000px;
+}
+
+div.gamerules {
+	font-size: 2.0em;
+	text-align: center;
+	background-color: yellow;
+}
+
+div.startandstop  {}
+
+.button {
+	align-self: 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	background-color: white;
+}
+
+div.questions {
+	font-size: 2.0em;
+	text-align: center;
+	background-color: orange;
+}
