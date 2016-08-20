@@ -1,6 +1,7 @@
 body {
 	width: 100%;
 	background-image: url();
+	background-image: 
 	background-color: blue;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size: 100%;
@@ -13,10 +14,13 @@ header {
 	font-color: black;
 	text-align: center;
 	background-color: red;
-	max-width: 1000px;
+	width: 90%;
+	margin: 0 auto 0 auto;
 }
 
 div.gamerules {
+	width: 90%;
+	margin: 0 auto 0 auto;
 	font-size: 2.0em;
 	text-align: center;
 	background-color: yellow;
